@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569466778935",
+    "project_id": "fir-sports-67b44",
+    "storage_bucket": "fir-sports-67b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569466778935:android:ce3fb84da5e303e3b996b2",
+        "android_client_info": {
+          "package_name": "com.mason.firebasesports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569466778935-u46kqu6ieihik6npo7gdl9nl6v6ub6rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1my1HNNFPYYerT7jX0tU969Hrp8m0HqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569466778935-u46kqu6ieihik6npo7gdl9nl6v6ub6rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
